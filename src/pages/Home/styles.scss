@@ -1,0 +1,12 @@
+.home-page-container {
+  padding: 60px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  .title {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+  }
+}
